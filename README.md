@@ -1,5 +1,6 @@
 <link rel="shortcut icon" type="image/png" 
       href="{{ "https://github.com/splinterlandsbot/splinterlandsbot.github.io/blob/main/scicon.png?raw=true"  | absolute_url }}">
+
 # Splinterlands Bot
 
 ![Splinterlands hero image](https://github.com/splinterlandsbot/splinterlandsbot.github.io/blob/main/splinterlands_hero.png?raw=true "Splinterlands hero image")
