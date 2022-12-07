@@ -1,0 +1,3 @@
+# Splinterlands Bot
+
+## Automate Splinterlands
